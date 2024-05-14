@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TypeScript errors are not increased 1`] = `0`;
+
+exports[`TypeScript errors are not increased 2`] = `{}`;

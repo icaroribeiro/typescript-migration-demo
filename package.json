@@ -1,0 +1,22 @@
+{
+  "name": "typescript-migration-demo",
+  "version": "1.0.0",
+  "description": "typescript-migration-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ícaro Ribeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "@babel/preset-typescript": "^7.24.1",
+    "@types/jest": "^29.5.12",
+    "babel-jest": "^29.7.0",
+    "find-yarn-workspace-root": "^2.0.0",
+    "jest": "^29.7.0",
+    "lodash": "^4.17.21",
+    "typescript": "^5.4.5"
+  }
+}
